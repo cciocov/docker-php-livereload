@@ -1,6 +1,6 @@
 ![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 
-php-livereload is a [Docker][1] image running [Apache][4] with [PHP][2] and [LiveReload][3] support.
+[php-livereload][8] is a [Docker][1] image running [Apache][4] with [PHP][2] and [LiveReload][3] support.
 
 ### Usage
 
@@ -22,4 +22,5 @@ A LiveReload server is not provided by this image, but you can use [cciocov/live
 [4]: http://www.livereload.com
 [5]: http://httpd.apache.org/docs/current/mod/mod_vhost_alias.html
 [6]: http://httpd.apache.org/docs/current/mod/mod_ext_filter.html
-[7]: http://hub.docker.com/r/cciocov/livereload/
+[7]: http://github.com/cciocov/docker-livereload
+[8]: http://hub.docker.com/r/cciocov/php-livereload/
