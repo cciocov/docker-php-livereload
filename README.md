@@ -1,6 +1,6 @@
 ![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 
-[php-livereload][8] is a [Docker][1] image running [Apache][2] with [PHP][3] and [LiveReload][4] support.
+[cciocov/php-livereload][8] is a [Docker][1] image running [Apache][2] with [PHP][3] and [LiveReload][4] support.
 
 ### Usage
 
